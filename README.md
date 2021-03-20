@@ -2,11 +2,16 @@
 
 가상환경을 만들고 필요 패키지를 설치해야함
 
+가상환경 패키지인 virtualenv 설치 및 생성(venv)
 ```
-    pip install virtualenv // 가상환경 툴 설치
-    virtualenv venv // 가상환경 venv 생성
-    source venv/bin/activate // 가상환경 venv 실행
-    pip install -r requirements.txt // 필요 패키지 설치
+    pip install virtualenv
+    virtualenv venv
+```
+
+가상환경 실행 및 필요 패키지 설치
+```
+    source venv/bin/activate
+    pip install -r requirements.txt
 ```
 
 ### 패키지가 변경되었을 때
