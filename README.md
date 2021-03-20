@@ -17,6 +17,12 @@
     pip freeze > requirements.txt
 ```
 
+### 가상환경 종료
+
+```
+    deactivate
+```
+
 ---
 ### 설치 시 참고 페이지
 
