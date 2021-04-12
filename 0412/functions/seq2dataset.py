@@ -1,6 +1,7 @@
 import numpy as np
 
 
+# 데이터셋 생성
 def seq2dataset(seq, window_size, code2idx):
     dataset = []
     for i in range(len(seq) - window_size):
