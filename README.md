@@ -5,7 +5,7 @@
 가상환경 패키지인 virtualenv 설치 및 생성(venv)
 ```
     pip install virtualenv
-    virtualenv venv
+    virtualenv venv --python=python3.7
 ```
 
 가상환경 실행 및 필요 패키지 설치
