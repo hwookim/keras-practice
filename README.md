@@ -14,6 +14,11 @@
     pip install -r requirements.txt
 ```
 
+가상환경 실행
+```
+jupyter notebook –ip=0.0.0.0 –port=8888 –allow-root
+```
+
 ### 패키지가 변경되었을 때
 
 다른 곳에서도 똑같은 환경을 유지할 수 있도록 필요 패키지 목록 최신화
