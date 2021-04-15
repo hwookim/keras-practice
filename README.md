@@ -13,6 +13,15 @@ python3.7 -m pip install pip
 
 ```
 
+### 원격 환경 세팅
+```
+jupyter notebook --generate-config
+vi ~/.jupyter/jupyter_notebook_config.py
+
+c.NotebookApp.ip = ~
+c.NotebookApp.open_browser = Fasle
+```
+
 ### 새로운 환경에서 설치할 때
 
 가상환경을 만들고 필요 패키지를 설치해야함
