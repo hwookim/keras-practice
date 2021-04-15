@@ -32,11 +32,11 @@ def print_learning(hist):
     acc_ax.set_ylim([0.0, 1.0])
 
     loss_ax.plot(hist.history['loss'], 'y', label='train loss')
-    acc_ax.plot(hist.history['acc'], 'b', label='train acc')
+    acc_ax.plot(hist.history['accuracy'], 'b', label='train accuracy')
 
     loss_ax.set_xlabel('epoch')
     loss_ax.set_ylabel('loss')
-    acc_ax.set_ylabel('accuray')
+    acc_ax.set_ylabel('accuracy')
 
     loss_ax.legend(loc='upper left')
     acc_ax.legend(loc='lower left')
