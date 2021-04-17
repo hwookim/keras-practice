@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 가상환경 실행
 ```
-jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
+jupyter-notebook --ip=0.0.0.0 --port=8888 --allow-root &
 ```
 
 ### 패키지가 변경되었을 때
