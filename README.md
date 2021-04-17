@@ -34,8 +34,8 @@ virtualenv venv --python=python3.7
 
 가상환경 실행 및 필요 패키지 설치
 ```
-    source venv/bin/activate
-    pip install -r requirements.txt
+source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 가상환경 실행
@@ -48,13 +48,13 @@ jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
 다른 곳에서도 똑같은 환경을 유지할 수 있도록 필요 패키지 목록 최신화
 
 ```
-    pip freeze > requirements.txt
+pip freeze > requirements.txt
 ```
 
 ### 가상환경 종료
 
 ```
-    deactivate
+deactivate
 ```
 
 ---
