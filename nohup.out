@@ -1,0 +1,141 @@
+[I 09:10:31.121 NotebookApp] Serving notebooks from local directory: /home/gusdn9754/keras-practice
+[I 09:10:31.122 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 09:10:31.122 NotebookApp] http://keras-practice:8888/?token=10fe922a76b25c88c8d6acea01d72a1f2ec18a6ea6ad84f1
+[I 09:10:31.122 NotebookApp]  or http://127.0.0.1:8888/?token=10fe922a76b25c88c8d6acea01d72a1f2ec18a6ea6ad84f1
+[I 09:10:31.122 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:10:31.127 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/gusdn9754/.local/share/jupyter/runtime/nbserver-13530-open.html
+    Or copy and paste one of these URLs:
+        http://keras-practice:8888/?token=10fe922a76b25c88c8d6acea01d72a1f2ec18a6ea6ad84f1
+     or http://127.0.0.1:8888/?token=10fe922a76b25c88c8d6acea01d72a1f2ec18a6ea6ad84f1
+[I 09:11:35.360 NotebookApp] 302 GET /?token=5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 0.680000ms
+[I 09:11:55.106 NotebookApp] Kernel started: 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c, name: python3
+[I 09:12:06.107 NotebookApp] Starting buffering for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:e8709f90fcfc466b88084a5f4ba36bff
+[I 09:12:06.517 NotebookApp] Kernel restarted: 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c
+[I 09:12:06.850 NotebookApp] Restoring connection for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:e8709f90fcfc466b88084a5f4ba36bff
+[I 09:12:07.356 NotebookApp] Replaying 3 buffered messages
+2021-04-17 09:12:10.107543: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-04-17 09:12:10.107610: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2021-04-17 09:12:10.107639: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (keras-practice): /proc/driver/nvidia/version does not exist
+2021-04-17 09:12:10.107847: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-04-17 09:12:10.116545: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2250000000 Hz
+2021-04-17 09:12:10.118191: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5c4d930 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-04-17 09:12:10.118265: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 09:13:56.149 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:15:56.157 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:17:56.134 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:19:56.136 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:21:56.157 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:23:56.160 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:25:55.264 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:27:56.173 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:29:56.163 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:31:56.170 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:33:56.162 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:35:56.249 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:37:56.165 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:39:56.160 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:41:56.174 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:43:55.256 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:45:55.255 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:47:55.256 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:49:55.262 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:51:55.267 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:53:55.258 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:55:55.275 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:57:55.265 NotebookApp] Saving file at /report1/report1.ipynb
+[I 09:59:55.266 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:01:55.267 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:03:55.271 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:05:55.282 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:07:55.277 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:09:55.282 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:11:55.283 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:13:55.290 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:15:55.278 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:17:55.277 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:19:55.278 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:21:55.279 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:23:55.285 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:25:55.291 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:27:55.293 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:29:55.285 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:31:55.298 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:33:55.298 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:35:55.286 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:37:55.288 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:39:55.293 NotebookApp] Saving file at /report1/report1.ipynb
+[I 10:42:41.810 NotebookApp] Starting buffering for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:e8709f90fcfc466b88084a5f4ba36bff
+[I 11:08:12.965 NotebookApp] Starting buffering for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:d19348578c2b495bb2020079df857081
+[I 11:08:14.134 NotebookApp] Kernel restarted: 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c
+[I 11:08:14.483 NotebookApp] Restoring connection for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:d19348578c2b495bb2020079df857081
+[I 11:08:14.845 NotebookApp] Replaying 3 buffered messages
+2021-04-17 11:08:17.716698: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-04-17 11:08:17.716741: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2021-04-17 11:08:17.716768: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (keras-practice): /proc/driver/nvidia/version does not exist
+2021-04-17 11:08:17.716972: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-04-17 11:08:17.725895: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2250000000 Hz
+2021-04-17 11:08:17.728235: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x475eaf0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-04-17 11:08:17.728300: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 11:08:59.207 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:10:59.232 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:12:59.266 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:14:59.226 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:16:59.214 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:18:59.203 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:20:59.203 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:22:59.205 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:24:58.877 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:26:58.877 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:28:58.873 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:30:59.136 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:32:58.873 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:34:58.874 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:36:58.877 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:38:58.883 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:40:58.888 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:42:58.894 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:44:58.878 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:47:01.241 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:48:58.880 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:51:02.088 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:52:59.296 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:53:32.329 NotebookApp] 302 GET / (193.169.255.238) 0.820000ms
+[I 11:53:46.282 NotebookApp] 302 GET /tree? (193.169.255.238) 0.970000ms
+[I 11:54:59.424 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:56:58.895 NotebookApp] Saving file at /report1/report1.ipynb
+[I 11:58:58.891 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:00:58.891 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:02:58.902 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:04:58.894 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:06:58.900 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:08:58.898 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:10:58.890 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:12:58.894 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:14:58.897 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:16:58.909 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:18:58.905 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:20:58.905 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:22:58.924 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:24:58.905 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:26:58.906 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:28:58.905 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:30:58.912 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:32:58.912 NotebookApp] Saving file at /report1/report1.ipynb
+[I 12:34:58.915 NotebookApp] Saving file at /report1/report1.ipynb
+[I 13:27:43.645 NotebookApp] Starting buffering for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:d19348578c2b495bb2020079df857081
+[I 13:27:45.953 NotebookApp] Restoring connection for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:d19348578c2b495bb2020079df857081
+[W 13:29:15.955 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 13:29:20.959 NotebookApp] Starting buffering for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:d19348578c2b495bb2020079df857081
+[I 17:09:23.489 NotebookApp] Restoring connection for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:d19348578c2b495bb2020079df857081
+[I 17:10:00.882 NotebookApp] Starting buffering for 2eebe5ee-5eb0-4054-9bb0-c61c566bc23c:d19348578c2b495bb2020079df857081
+[W 17:10:07.222 NotebookApp] Forbidden
+[W 17:10:07.223 NotebookApp] 403 GET /api/terminals?_=1618650703691 (211.107.64.149) 1.080000ms referer=http://35.232.183.11:8888/tree/report1
+[W 17:10:07.224 NotebookApp] Forbidden
+[W 17:10:07.224 NotebookApp] 403 GET /api/sessions?_=1618650703690 (211.107.64.149) 0.610000ms referer=http://35.232.183.11:8888/tree/report1
+[I 17:10:07.562 NotebookApp] 302 GET /tree/report1 (211.107.64.149) 0.810000ms
+[I 17:10:11.701 NotebookApp] 302 GET /?token=5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 0.610000ms
+[I 17:10:11.867 NotebookApp] 302 GET /tree?token=5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 0.860000ms
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
