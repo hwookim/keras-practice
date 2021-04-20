@@ -1,6 +1,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+COLOR = 'white'
+plt.rcParams['text.color'] = COLOR
+plt.rcParams['axes.labelcolor'] = COLOR
+plt.rcParams['xtick.color'] = COLOR
+plt.rcParams['ytick.color'] = COLOR
+
 
 # 데이터셋 생성
 def generate_dataset(samples, width=16, height=16):
@@ -26,21 +32,6 @@ def generate_image(points, width=16, height=16):
         img[int(ipt[0] * width), int(ipt[1] * height)] = 1
 
     return img.reshape(width, height, 1)
-
-
-# 데이터셋 가시화
-def visualize_dataset(x_train, y_train, row=5, col=5, width=16, height=16):
-    plt.rcParams["figure.figsize"] = (10, 10)
-
-    f, axarr = plt.subplots(row, col)
-
-    for i in range(row * col):
-        sub_plt = axarr[i / row, i % col]
-        sub_plt.axis('off')
-        sub_plt.imshow(x_train[i].reshape(width, height))
-        sub_plt.set_title('R ' + str(y_train[i][0]))
-
-    plt.show()
 
 
 # 학습 과정 출력
