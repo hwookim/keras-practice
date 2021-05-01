@@ -139,3 +139,108 @@
 [I 17:10:11.701 NotebookApp] 302 GET /?token=5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 0.610000ms
 [I 17:10:11.867 NotebookApp] 302 GET /tree?token=5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 0.860000ms
 [IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 11:29:45.269 NotebookApp] Serving notebooks from local directory: /home/gusdn9754/keras-practice
+[I 11:29:45.270 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 11:29:45.270 NotebookApp] http://keras-practice:8888/?token=03961c5ccd0690f01e4071bc517b1b816e9ece3869455116
+[I 11:29:45.270 NotebookApp]  or http://127.0.0.1:8888/?token=03961c5ccd0690f01e4071bc517b1b816e9ece3869455116
+[I 11:29:45.270 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:29:45.279 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/gusdn9754/.local/share/jupyter/runtime/nbserver-3963-open.html
+    Or copy and paste one of these URLs:
+        http://keras-practice:8888/?token=03961c5ccd0690f01e4071bc517b1b816e9ece3869455116
+     or http://127.0.0.1:8888/?token=03961c5ccd0690f01e4071bc517b1b816e9ece3869455116
+[I 11:30:02.103 NotebookApp] 302 GET /?token=5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 0.500000ms
+[I 11:30:02.269 NotebookApp] 302 GET /tree?token=5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 0.650000ms
+[I 11:31:44.825 NotebookApp] Serving notebooks from local directory: /home/gusdn9754/keras-practice
+[I 11:31:44.826 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 11:31:44.826 NotebookApp] http://keras-practice:8888/?token=a14cb0514045dbdde815bf9479a3d6b7f2c6142e2ceef7a7
+[I 11:31:44.826 NotebookApp]  or http://127.0.0.1:8888/?token=a14cb0514045dbdde815bf9479a3d6b7f2c6142e2ceef7a7
+[I 11:31:44.826 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:31:44.830 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/gusdn9754/.local/share/jupyter/runtime/nbserver-3992-open.html
+    Or copy and paste one of these URLs:
+        http://keras-practice:8888/?token=a14cb0514045dbdde815bf9479a3d6b7f2c6142e2ceef7a7
+     or http://127.0.0.1:8888/?token=a14cb0514045dbdde815bf9479a3d6b7f2c6142e2ceef7a7
+[W 11:32:33.114 NotebookApp] 400 GET /login?next=%2Ftree%3Ftoken%a14cb0514045dbdde815bf9479a3d6b7f2c6142e2ceef7a7 (211.107.64.149): Invalid unicode in next: b'/tree?token\xa14cb0514045dbdde815bf9479a3d6'
+[W 11:32:33.123 NotebookApp] 400 GET /login?next=%2Ftree%3Ftoken%a14cb0514045dbdde815bf9479a3d6b7f2c6142e2ceef7a7 (211.107.64.149) 9.190000ms referer=None
+[I 11:32:37.337 NotebookApp] 302 POST /login?next=%2Ftree%3Ftoken%3D5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 1.160000ms
+[W 11:33:12.307 NotebookApp] Notebook 0420/time_series_numeric_prediction/multi_layer_perceptron.ipynb is not trusted
+[I 11:33:12.829 NotebookApp] Kernel started: 6f06fe96-f60f-433c-9226-16dad0db5f39, name: python3
+[W 11:33:13.335 NotebookApp] Notebook 0420/time_series_numeric_prediction/stateful_RNN.ipynb is not trusted
+[I 11:33:18.886 NotebookApp] Kernel started: 335464c6-efe3-4561-a295-05a4dec490f5, name: python3
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 11:35:12.408 NotebookApp] Serving notebooks from local directory: /home/gusdn9754/keras-practice
+[I 11:35:12.408 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 11:35:12.408 NotebookApp] http://keras-practice:8888/?token=9fb5e51a004e01c0368c4e3b0bf1ed4ed66b00140175f743
+[I 11:35:12.408 NotebookApp]  or http://127.0.0.1:8888/?token=9fb5e51a004e01c0368c4e3b0bf1ed4ed66b00140175f743
+[I 11:35:12.408 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:35:12.411 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/gusdn9754/.local/share/jupyter/runtime/nbserver-4049-open.html
+    Or copy and paste one of these URLs:
+        http://keras-practice:8888/?token=9fb5e51a004e01c0368c4e3b0bf1ed4ed66b00140175f743
+     or http://127.0.0.1:8888/?token=9fb5e51a004e01c0368c4e3b0bf1ed4ed66b00140175f743
+[I 11:35:14.077 NotebookApp] Saving file at /0420/time_series_numeric_prediction/multi_layer_perceptron.ipynb
+[W 11:35:14.078 NotebookApp] Notebook 0420/time_series_numeric_prediction/multi_layer_perceptron.ipynb is not trusted
+[W 11:35:16.066 NotebookApp] 404 GET /api/kernels/6f06fe96-f60f-433c-9226-16dad0db5f39/channels?session_id=061590cb52744015b7b73c253919b8d6 (211.107.64.149): Kernel does not exist: 6f06fe96-f60f-433c-9226-16dad0db5f39
+[W 11:35:16.102 NotebookApp] 404 GET /api/kernels/6f06fe96-f60f-433c-9226-16dad0db5f39/channels?session_id=061590cb52744015b7b73c253919b8d6 (211.107.64.149) 37.810000ms referer=None
+[I 11:35:20.630 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[W 11:35:29.089 NotebookApp] 404 GET /api/kernels/335464c6-efe3-4561-a295-05a4dec490f5/channels?session_id=45b1054a851c47638ff433d3c5f262ed (211.107.64.149): Kernel does not exist: 335464c6-efe3-4561-a295-05a4dec490f5
+[W 11:35:29.089 NotebookApp] 404 GET /api/kernels/335464c6-efe3-4561-a295-05a4dec490f5/channels?session_id=45b1054a851c47638ff433d3c5f262ed (211.107.64.149) 2.510000ms referer=None
+[I 11:35:34.442 NotebookApp] 302 GET /?token=5fe94a536c21dcaf7899e44892dcdc321ff1f93970a46a5a (211.107.64.149) 0.450000ms
+[I 11:35:47.001 NotebookApp] Kernel started: 531673af-961e-4b2f-bb67-97e3aa8d5336, name: python3
+2021-05-01 11:36:11.781706: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-05-01 11:36:11.781768: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2021-05-01 11:36:11.781809: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (keras-practice): /proc/driver/nvidia/version does not exist
+2021-05-01 11:36:11.782182: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-01 11:36:11.806884: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2249995000 Hz
+2021-05-01 11:36:11.808430: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5934c20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-01 11:36:11.808490: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 11:36:48.906 NotebookApp] 302 GET / (50.18.137.233) 0.590000ms
+[I 11:37:48.082 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:39:48.079 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:41:47.171 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:43:48.060 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:45:48.068 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:47:48.357 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:49:48.059 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:51:48.056 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:53:48.056 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:55:48.055 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:57:48.083 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 11:59:48.057 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:01:48.060 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:03:48.062 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:05:48.137 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:07:53.453 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:15:47.700 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:16:33.590 NotebookApp] Starting buffering for 531673af-961e-4b2f-bb67-97e3aa8d5336:b113d85dfd9a4a9383bf11039126989c
+[I 12:16:34.814 NotebookApp] Kernel restarted: 531673af-961e-4b2f-bb67-97e3aa8d5336
+[I 12:16:35.623 NotebookApp] Restoring connection for 531673af-961e-4b2f-bb67-97e3aa8d5336:b113d85dfd9a4a9383bf11039126989c
+[I 12:16:35.629 NotebookApp] Replaying 6 buffered messages
+2021-05-01 12:16:38.276005: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-05-01 12:16:38.276048: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2021-05-01 12:16:38.276073: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (keras-practice): /proc/driver/nvidia/version does not exist
+2021-05-01 12:16:38.276252: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-01 12:16:38.283532: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2249995000 Hz
+2021-05-01 12:16:38.285189: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x59c9a40 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-01 12:16:38.285261: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 12:17:48.062 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:19:48.102 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:21:48.068 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:23:48.088 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:25:48.088 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:27:48.095 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:29:47.182 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:31:48.071 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:33:48.103 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:35:48.094 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:37:48.067 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:39:48.084 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 12:41:48.313 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
