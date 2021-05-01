@@ -1,3 +1,4 @@
+import keras
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -49,3 +50,13 @@ def print_used_model(y_test, look_ahead, predictions):
     plt.plot(np.arange(look_ahead), y_test[:look_ahead], label="test function")
     plt.legend()
     plt.show()
+
+
+class CustomHistory(keras.callbacks.Callback):
+    def init(self):
+        self.train_loss = []
+        self.val_loss = []
+
+    def on_epoch_end(self, batch, logs={}):
+        self.train_loss.append(logs.get('loss'))
+        self.val_loss.append(logs.get('val_loss'))
