@@ -2,10 +2,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 COLOR = 'white'
-plt.rcParams['text.color'] = COLOR
 plt.rcParams['axes.labelcolor'] = COLOR
 plt.rcParams['xtick.color'] = COLOR
 plt.rcParams['ytick.color'] = COLOR
+
 
 # 데이터셋 생성
 def create_dataset(signal_data, look_back=1):
@@ -42,16 +42,8 @@ def evaluate_model(model, x_train, y_train, x_val, y_val, x_test, y_test, batch_
     print('Test Score: ', testScore)
 
 
-# 모델 사용
-def use_model(model, x_test, y_test, batch_size):
-    look_ahead = 250
-    xhat = x_test[0, None]
-    predictions = np.zeros((look_ahead, 1))
-    for i in range(look_ahead):
-        prediction = model.predict(xhat, batch_size)
-        predictions[i] = prediction
-        xhat = np.hstack([xhat[:, 1:], prediction])
-
+# 모델 결과 출력
+def print_used_model(y_test, look_ahead, predictions):
     plt.figure(figsize=(12, 5))
     plt.plot(np.arange(look_ahead), predictions, 'r', label="prediction")
     plt.plot(np.arange(look_ahead), y_test[:look_ahead], label="test function")
