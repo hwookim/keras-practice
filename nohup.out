@@ -321,3 +321,5 @@
 [I 14:50:11.713 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
 [I 14:56:16.846 NotebookApp] Malformed HTTP message from 157.245.108.21: Malformed HTTP version in HTTP Request-Line: 'Â\x00\x8c'
 [I 14:56:48.662 NotebookApp] Malformed HTTP message from 157.245.108.21: Malformed HTTP request line
+[I 15:00:46.708 NotebookApp] Starting buffering for 234aae91-db47-4689-b110-86f35886a434:7494ec5d85ba4808aef8b1fbf901110f
+[W 15:01:00.368 NotebookApp] Notebook 0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb is not trusted
