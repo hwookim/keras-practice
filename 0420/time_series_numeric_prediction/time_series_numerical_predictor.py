@@ -1,6 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+COLOR = 'white'
+plt.rcParams['text.color'] = COLOR
+plt.rcParams['axes.labelcolor'] = COLOR
+plt.rcParams['xtick.color'] = COLOR
+plt.rcParams['ytick.color'] = COLOR
 
 # 데이터셋 생성
 def create_dataset(signal_data, look_back=1):
