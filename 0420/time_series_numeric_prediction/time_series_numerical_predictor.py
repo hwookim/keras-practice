@@ -2,10 +2,10 @@ import keras
 import numpy as np
 import matplotlib.pyplot as plt
 
-COLOR = 'white'
-plt.rcParams['axes.labelcolor'] = COLOR
-plt.rcParams['xtick.color'] = COLOR
-plt.rcParams['ytick.color'] = COLOR
+# COLOR = 'white'
+# plt.rcParams['axes.labelcolor'] = COLOR
+# plt.rcParams['xtick.color'] = COLOR
+# plt.rcParams['ytick.color'] = COLOR
 
 
 # 데이터셋 생성
