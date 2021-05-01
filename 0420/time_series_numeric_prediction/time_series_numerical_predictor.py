@@ -2,10 +2,10 @@ import keras
 import numpy as np
 import matplotlib.pyplot as plt
 
-# COLOR = 'white'
-# plt.rcParams['axes.labelcolor'] = COLOR
-# plt.rcParams['xtick.color'] = COLOR
-# plt.rcParams['ytick.color'] = COLOR
+COLOR = 'white'
+plt.rcParams['axes.labelcolor'] = COLOR
+plt.rcParams['xtick.color'] = COLOR
+plt.rcParams['ytick.color'] = COLOR
 
 
 # 데이터셋 생성
@@ -20,9 +20,9 @@ def create_dataset(signal_data, look_back=1):
 
 
 # 학습과정 출력
-def show_model_learning_process(hist):
-    plt.plot(hist.history['loss'])
-    plt.plot(hist.history['val_loss'])
+def show_model_learning_process(loss, val_loss):
+    plt.plot(loss)
+    plt.plot(val_loss)
     plt.ylim(0.0, 0.15)
     plt.ylabel('loss')
     plt.xlabel('epoch')
