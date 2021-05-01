@@ -323,3 +323,97 @@
 [I 14:56:48.662 NotebookApp] Malformed HTTP message from 157.245.108.21: Malformed HTTP request line
 [I 15:00:46.708 NotebookApp] Starting buffering for 234aae91-db47-4689-b110-86f35886a434:7494ec5d85ba4808aef8b1fbf901110f
 [W 15:01:00.368 NotebookApp] Notebook 0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb is not trusted
+[I 15:03:01.463 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:04:25.217 NotebookApp] Starting buffering for 234aae91-db47-4689-b110-86f35886a434:99a0dfa5a505454fbd99a3ba65097d35
+[I 15:04:26.333 NotebookApp] Kernel restarted: 234aae91-db47-4689-b110-86f35886a434
+[I 15:04:26.848 NotebookApp] Restoring connection for 234aae91-db47-4689-b110-86f35886a434:99a0dfa5a505454fbd99a3ba65097d35
+[I 15:04:26.854 NotebookApp] Replaying 4 buffered messages
+2021-05-01 15:04:29.839669: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-05-01 15:04:29.839715: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2021-05-01 15:04:29.839739: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (keras-practice): /proc/driver/nvidia/version does not exist
+2021-05-01 15:04:29.839938: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-01 15:04:29.848320: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2249995000 Hz
+2021-05-01 15:04:29.849586: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x4eef0c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-01 15:04:29.849663: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 15:05:01.049 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:07:01.090 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:09:01.050 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:11:01.045 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:13:01.149 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:15:01.376 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:17:01.135 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:19:01.166 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:21:01.163 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:23:01.139 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:25:01.332 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:27:01.449 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:29:01.171 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:31:01.399 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:33:01.153 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:35:01.174 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:37:01.151 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[W 15:38:46.707 NotebookApp] Notebook 0420/time_series_numeric_prediction/stateful_RNN.ipynb is not trusted
+[I 15:38:47.388 NotebookApp] Kernel started: 649c71db-0f29-4448-a094-52e35f73d5c7, name: python3
+[I 15:39:01.237 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:40:47.736 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:40:50.229 NotebookApp] Starting buffering for 649c71db-0f29-4448-a094-52e35f73d5c7:c1a5b18d76984f3fb2486a94817b9bb5
+[I 15:40:50.538 NotebookApp] Kernel restarted: 649c71db-0f29-4448-a094-52e35f73d5c7
+[I 15:40:50.862 NotebookApp] Restoring connection for 649c71db-0f29-4448-a094-52e35f73d5c7:c1a5b18d76984f3fb2486a94817b9bb5
+[I 15:40:51.157 NotebookApp] Replaying 3 buffered messages
+2021-05-01 15:40:53.646718: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory
+2021-05-01 15:40:53.646760: E tensorflow/stream_executor/cuda/cuda_driver.cc:313] failed call to cuInit: UNKNOWN ERROR (303)
+2021-05-01 15:40:53.646782: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (keras-practice): /proc/driver/nvidia/version does not exist
+2021-05-01 15:40:53.646948: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-01 15:40:53.655343: I tensorflow/core/platform/profile_utils/cpu_utils.cc:102] CPU Frequency: 2249995000 Hz
+2021-05-01 15:40:53.656666: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5c7b250 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-01 15:40:53.656731: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[I 15:41:01.164 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:42:48.190 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:43:01.077 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:44:48.184 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:45:01.073 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:46:48.166 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:47:01.068 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:48:47.554 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:49:01.159 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:50:48.188 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:51:01.167 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:52:48.167 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:53:01.168 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:54:48.186 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:55:01.411 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:56:48.163 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:57:01.178 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 15:58:48.163 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 15:59:01.220 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:00:48.183 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 16:01:01.207 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:02:48.181 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 16:03:01.169 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:04:48.178 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 16:05:01.186 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:06:48.182 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 16:07:01.173 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:08:48.180 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 16:09:01.176 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:10:48.182 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 16:11:01.184 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:12:48.212 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_RNN.ipynb
+[I 16:13:01.264 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:15:01.235 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:17:01.196 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:19:01.187 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:21:01.198 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:23:01.229 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:25:01.176 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:27:01.273 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:29:01.244 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:31:01.214 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:33:01.188 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:35:01.311 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:37:01.241 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:39:01.219 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:41:01.190 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:43:01.256 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:45:01.298 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
+[I 16:47:01.480 NotebookApp] Saving file at /0420/time_series_numeric_prediction/stateful_stack_RNN.ipynb
